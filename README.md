@@ -9,5 +9,5 @@
  save them for later retrieval.
  
 # Presentation of the project :
- [here]("https://github.com/yassir-jaka/student-courses/blob/presentation/description.pdf")
+ [here](https://github.com/yassir-jaka/student-courses/blob/presentation/description.pdf)
  
